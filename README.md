@@ -1,6 +1,5 @@
 # Painter
-JavaScript Painter with download your canvas image in png..
-
+JavaScript Painter with download your canvas image in png..<br>
 watch it here..<br>
 jsfiddle - <a href="https://jsfiddle.net/pranab/1w547zfd/" target="_blank">Painter</a>
 
